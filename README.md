@@ -1,4 +1,4 @@
-# anime-images-telegram-bot [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/rubenlagus/TelegramBots/blob/master/LICENSE)
+# anime-images-telegram-bot [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/SayFoxPlease/anime-images-telegram-bot/blob/main/LICENSE)
 Using Aiogram, Asyncio and Neko API
 ***
 ## Abaut it
