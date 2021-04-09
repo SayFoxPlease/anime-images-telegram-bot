@@ -6,6 +6,6 @@ This is my first telegram bot, I think it can be useful for those who want to fo
 ***
 ## How to install and run
 1. `pip3 install Aiogram, Asyncio, Nekos`
-2. clone this repo
+2. `git clone https://github.com/SayFoxPlease/anime-images-telegram-bot`
 3. Change configure.py
-4. run bot.py
+4. `python3 bot.py`
