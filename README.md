@@ -4,7 +4,7 @@ Using Aiogram, Asyncio and Neko API
 ## Abaut it
 This is my first telegram bot, I think it can be useful for those who want to follow the same path as me.
 ***
-## How to install
+## How to install and run
 1. `pip3 install Aiogram, Asyncio, Nekos`
 2. clone this repo
 3. Change configure.py
